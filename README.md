@@ -1,7 +1,4 @@
-# LLM From Scratch
-The plan is to build a LLM from scratch. For starters a number prediction was built. 
-
-## Beginning:
+# Beginning:
 This repository contains a simple neural network implementation for predicting the next number in a sequence using PyTorch. The model performs horribly with the current parameters. Try tuning the amount of neurons, dropout rate and epoch for better performance.
 
 # Code Overview
