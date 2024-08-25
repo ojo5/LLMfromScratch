@@ -3,7 +3,7 @@ This repository contains a simple neural network implementation for predicting t
 
 # Code Overview
 Model: SimpleNN with two hidden layers and dropout for regularization.
-Dataset: Example dataset of sequential numbers.
+Dataset: Example dataset of sequential even numbers.
 Objective: Predict the next number in a sequence.
 
 
